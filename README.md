@@ -47,3 +47,4 @@ resetGame(): Resets variables for a new game session.
 Overall, this is a simple, well-structured Snake game using SDL2, featuring sound, score tracking, and smooth graphics rendering.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/455cb499-8000-41af-89c2-62fa91117ffc)
